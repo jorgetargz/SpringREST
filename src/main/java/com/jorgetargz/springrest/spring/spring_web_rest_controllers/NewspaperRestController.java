@@ -1,4 +1,4 @@
-package com.jorgetargz.springrest.spring.rest_controllers;
+package com.jorgetargz.springrest.spring.spring_web_rest_controllers;
 
 import com.jorgetargz.springrest.domain.modelo.Newspaper;
 import com.jorgetargz.springrest.domain.usecases.NewspapersUseCases;
